@@ -4,7 +4,7 @@
 
 支持macos 10.14 和 10.15
 
-<img align="middle" src="https://github.com/p455555555/Thinkpad-P1-EFI/tree/master/images/index.png" alt="Sys Info" width="1000">
+<img align="middle" src="https://raw.githubusercontent.com/p455555555/Thinkpad-P1-EFI/master/images/index.png" alt="Sys Info" width="1000">
 
 配置: <br>
 CPU：Intel Xeon E-2176M<br>
