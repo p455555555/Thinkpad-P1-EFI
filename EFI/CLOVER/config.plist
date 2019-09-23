@@ -296,6 +296,11 @@
 		<key>Timeout</key>
 		<integer>1</integer>
 	</dict>
+	<key>CPU</key>
+	<dict>
+		<key>Type</key>
+		<string>0x0501</string>
+	</dict>
 	<key>Devices</key>
 	<dict>
 		<key>Audio</key>
@@ -573,17 +578,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>07/26/2019</string>
+		<string>09/28/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP151.88Z.F000.B00.1907261958</string>
+		<string>MBP151.88Z.F000.B00.1809280842</string>
 		<key>Board-ID</key>
 		<string>Mac-937A206F2EE63C01</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02814902GUJP4FUE</string>
+		<string>C02833310GUJP4F8C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -595,7 +600,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>1037.0.39.151.1</string>
+		<string>220.200.252.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -606,16 +611,23 @@
 		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
+		<key>Memory</key>
+		<dict>
+			<key>SlotCount</key>
+			<integer>1</integer>
+		</dict>
 		<key>Mobile</key>
 		<true/>
 		<key>PlatformFeature</key>
-		<string>0x02</string>
+		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBookPro15,1</string>
 		<key>SerialNumber</key>
-		<string>C02WJ05BKGYG</string>
+		<string>C02X76ZSKGYG</string>
 		<key>SmUUID</key>
-		<string>F83FA546-5472-4BC4-B740-851FE33DE963</string>
+		<string>B86DC01C-EC06-41CA-9272-E5084F49A515</string>
+		<key>Trust</key>
+		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
