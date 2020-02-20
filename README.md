@@ -1,8 +1,8 @@
 # Thinkpad-P1-EFI
 
-根据 https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme 制作
+基于OpenCore启动
 
-支持macos 10.14 和 10.15
+支持macOS 10.15
 
 <img align="middle" src="https://raw.githubusercontent.com/p455555555/Thinkpad-P1-EFI/master/images/index.png" alt="Sys Info" width="1000">
 
