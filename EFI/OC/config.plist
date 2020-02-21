@@ -917,61 +917,13 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
-			<key>MLB</key>
-			<string>C02833310GUJP4F8C</string>
-			<key>ROM</key>
-			<data>SCrjLndl</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02X76ZSKGYG</string>
-			<key>SystemUUID</key>
-			<string>B86DC01C-EC06-41CA-9272-E5084F49A515</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
-			<key>BIOSReleaseDate</key>
-			<string>01/05/2020</string>
-			<key>BIOSVendor</key>
-			<string>Apple Inc.</string>
-			<key>BIOSVersion</key>
-			<string>1037.80.41.0.0</string>
-			<key>BoardAssetTag</key>
-			<string>MacBook-Aluminum</string>
-			<key>BoardLocationInChassis</key>
-			<string>Part Component</string>
-			<key>BoardManufacturer</key>
-			<string>Apple Inc.</string>
-			<key>BoardProduct</key>
-			<string>Mac-937A206F2EE63C01</string>
-			<key>BoardSerialNumber</key>
-			<string>C02X76ZSKGYG</string>
-			<key>BoardType</key>
-			<integer>10</integer>
-			<key>BoardVersion</key>
-			<string>1.0</string>
-			<key>ChassisAssetTag</key>
-			<string>MacBook-Aluminum</string>
-			<key>ChassisManufacturer</key>
-			<string>Apple Inc.</string>
-			<key>ChassisSerialNumber</key>
-			<string>C02X76ZSKGYG</string>
-			<key>ChassisType</key>
-			<integer>9</integer>
-			<key>ChassisVersion</key>
-			<string>Mac-937A206F2EE63C01</string>
-			<key>FirmwareFeatures</key>
-			<data>N+EP/AAAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>P/8f/wAAAAA=</data>
-			<key>MemoryFormFactor</key>
-			<integer>0</integer>
-			<key>PlatformFeature</key>
-			<integer>2</integer>
-			<key>ProcessorType</key>
-			<integer>0</integer>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
@@ -980,10 +932,6 @@
 			<string>MacBookPro15,1</string>
 			<key>SystemSKUNumber</key>
 			<string>Mac-937A206F2EE63C01</string>
-			<key>SystemSerialNumber</key>
-			<string>C02X76ZSKGYG</string>
-			<key>SystemUUID</key>
-			<string>B86DC01C-EC06-41CA-9272-E5084F49A515</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
