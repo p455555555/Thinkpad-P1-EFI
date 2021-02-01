@@ -1,8 +1,8 @@
 # Thinkpad-P1-EFI
 
-基于OpenCore启动
+基于OpenCore 0.6.5启动
 
-支持macOS 10.15
+已更新到macOS 11.1 (Update System to Big Sur)
 
 <img align="middle" src="https://raw.githubusercontent.com/p455555555/Thinkpad-P1-EFI/master/images/index.png" alt="Sys Info" width="1000">
 
@@ -15,7 +15,6 @@ CPU：Intel Xeon E-2176M<br>
 内存： Samsung ECC 16GX2<br>
 Wi-Fi/蓝牙：苹果BCM94360CS2+转接卡<br>
     
-
 系统信息<br>
 <img align="middle" src="https://raw.githubusercontent.com/p455555555/Thinkpad-P1-EFI/master/images/1.png" alt="Sys Info" width="1000">
 <br>
