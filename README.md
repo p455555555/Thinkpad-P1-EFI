@@ -1,8 +1,8 @@
 # Thinkpad-P1-EFI
 
-基于OpenCore 0.6.5启动
+基于OpenCore 0.7.5启动
 
-已更新到macOS 11.1 (Update System to Big Sur)
+已更新到macOS 12.0.1 (Update System to Monterey)
 
 <img align="middle" src="https://raw.githubusercontent.com/p455555555/Thinkpad-P1-EFI/master/images/index.png" alt="Sys Info" width="1000">
 
